@@ -1,0 +1,13 @@
+{
+    "name": "orcicley/aula_dia3",
+    "description": "aula de composer",
+    "authors": [
+        {
+            "name": "Orcicley Dos Santos Oliveira Junior",
+            "email": "orcjunior.linformatica@gmail.com"
+        }
+    ],
+    "require": {
+        "endroid/qr-code": "^2.5"
+    }
+}
